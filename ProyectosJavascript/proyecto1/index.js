@@ -1,6 +1,6 @@
-let suma = (x, y = 0) => {
+let suma = (x, y, z) => {
     
-    let resultado = x + y;
+    let resultado = x + y + z;
 
     console.log(resultado);
   };
