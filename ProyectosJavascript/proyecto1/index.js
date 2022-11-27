@@ -1,3 +1,9 @@
+let suma = (x, y, z) => {
+    
+    let resultado = x + y + z;
+
+    console.log(resultado);
+  };
 
   let resta = (x, y = 0) =>{
     
